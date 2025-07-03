@@ -75,4 +75,5 @@ Python & Data Science Intern CodTech I have learned python and data science on m
 July 2025 Internship
 
 OUTPUT OF THE PROJECT:
+![Image](https://github.com/user-attachments/assets/2439444e-b9e1-4ab2-afdc-18e4beada67b)
 
