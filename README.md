@@ -66,16 +66,6 @@ David,24,76
 
 Eva,20,95
 
-📝 Output:
-
-The final PDF contains:
-
-Title and timestamp
-
-Column-wise summary of numeric data.
-
-Layout clean with FPDF library
-
 👤 Author:
 
 Sharikaa D
@@ -86,4 +76,3 @@ July 2025 Internship
 
 OUTPUT OF THE PROJECT:
 
-[data_analysis_report.pdf](https://github.com/user-attachments/files/21022088/data_analysis_report.pdf)
